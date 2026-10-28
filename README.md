@@ -1,6 +1,8 @@
 
 # 🌐 Segmented Enterprise Network — CCNA Enterprise Lab
-<img width="920" height="391" alt="Ekran görüntüsü 2026-10-28 154736" src="https://github.com/user-attachments/assets/e8c24c77-09a1-4a9e-89b7-3bc6e15936e4" />
+
+<img width="947" height="518" alt="Ekran görüntüsü 2026-10-28 163109" src="https://github.com/user-attachments/assets/7f2d96f4-c862-4b33-89a6-23284383c804" />
+
 
 **VLAN Segmentation · Inter-VLAN Routing · OSPF · WAN · DMZ Concepts**
 
