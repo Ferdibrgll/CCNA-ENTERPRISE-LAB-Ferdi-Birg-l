@@ -10,7 +10,6 @@ Cisco CCNA 200-301 konularını kurumsal ağ senaryosu üzerinden çalışmak i�
 
 ## 🗺️ Ağ topolojisi
 
-![Cisco Packet Tracer enterprise network topology](topology.png)
 
 Görselde merkez (HQ), iki şube (BRA1, BRA2), çok katmanlı anahtarlar, erişim anahtarları ve farklı VLAN'larda uç cihazlar yer alır.
 
